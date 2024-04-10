@@ -1,1 +1,1 @@
--- This schema includes tables for employees, jobs, departments, and locations. Each table has its own set of columns to store relevant information, and foreign key constraints are used to establish relationships between tables.
+
